@@ -189,5 +189,4 @@ public class MainActivity extends AppCompatActivity {
 
         startActivity(new Intent(MainActivity.this, LoginScreen.class));
     }
-    }
-}
+    }  //////////////////////// just adding a  comment u hi...
